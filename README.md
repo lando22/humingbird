@@ -55,7 +55,7 @@ Much like the quickstart, Humingbird also allows for highly simplified text clas
 import humingbird
 
 # flexible creation + prediction in one call
-prediction = humingbird.Image.predict(
+prediction = humingbird.Text.predict(
        text="I love Humingbird! It's so easy.",        # inference text snippet
        labels=["toxic", "not toxic"]                   # supply potential labels that this text snippet could be (i.e: allow the model to select the most probable)
 )
