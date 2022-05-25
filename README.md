@@ -1,5 +1,5 @@
 
-[![Downloads](https://img.shields.io/pypi/dm/humingbird.svg)]
+![Downloads](https://img.shields.io/pypi/dm/humingbird.svg)
 
 ## Humingbird
 Humingbird is a Python framework for highly simplified machine learning classification. Using Humingbird allows you to build custom image and text classification systems with no data, no training and only 9 lines of code. Humingbird is intended for two types of developers:
