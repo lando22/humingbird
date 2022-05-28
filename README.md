@@ -77,6 +77,3 @@ This package can only do image and text classification. If I can get to it, I wo
 
 ## Humingbird API
 For those interested, a REST API for enhanced models may be on the roadmap. This would be for developers who don't have the hardware to run the models in the open source package, or would like a fully managed experience with premium features.
-
-
-For more info, please check out https://www.humingbird.co
