@@ -6,7 +6,7 @@
 Humingbird is a Python framework for highly simplified machine learning classification. Using Humingbird allows you to build custom image and text classification systems with no data, no training and only 9 lines of code. Humingbird is intended for two types of developers:
 
 - Developers who are experienced in programming but not in machine learning
-- Developers experienced with machine learning but an extremely streamlined experience with little overhead.
+- Developers experienced with machine learning but want an extremely streamlined experience with little overhead.
 
 **Note:** This package requires download of two models (one for image and one for text classification tasks). These models total approx 600 MB in storage.
 
