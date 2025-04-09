@@ -1,6 +1,7 @@
 import transformers
 from transformers import CLIPProcessor, CLIPModel
 from PIL import Image as pil_image
+# TEST
 
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch16")
 processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch16")
